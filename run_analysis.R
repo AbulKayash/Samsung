@@ -1,5 +1,5 @@
 #########################################################################################
-#Merges the training and the test sets to create one data set. 
+#Merges the training and the test sets to create one data set.  
 #######################################################################################
 if (!file.exists("Combined")) {
 dir.create("Combined")        }
